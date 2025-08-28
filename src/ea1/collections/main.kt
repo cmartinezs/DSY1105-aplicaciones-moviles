@@ -1,4 +1,4 @@
-package ea1.colections
+package ea1.collections
 
 fun main() {
     val notas = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
