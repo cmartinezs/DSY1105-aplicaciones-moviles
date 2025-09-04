@@ -10,4 +10,7 @@ fun main() {
     numeros.add(23)
 
     //var lista = mutableListOf() las colecciones vacias deben indicar el tipo de dato de los elementos
+
+    numeros.forEach { println(it) }
+    numeros.forEach(action = { println(it) })
 }
